@@ -49,6 +49,7 @@ _LEAP_DEVICE_TYPES = {
         "Shade",
         "Tilt",
         "SerenaTiltOnlyWoodBlind",
+        "TriathlonTiltOnlyWoodBlind",
         "PalladiomWireFreeShade",
     ],
     "sensor": [
